@@ -146,10 +146,10 @@ export default function Footer() {
             <Link
               underline="none"
               sx={{ color: "#1F93FF" }}
-              href="https://www.linkedin.com/in/yana-gupta/"
+              href="https://www.linkedin.com/in/shadmanshaikh-xan/"
               target="_blank"
             >
-              Yana Gupta
+              shadman
             </Link>
           </Typography>
         </Container>
